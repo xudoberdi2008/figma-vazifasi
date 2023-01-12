@@ -1,0 +1,241 @@
+.Mybtn{
+    font-size: 12px !important;
+    width: 160px;
+    background-color: #a30af2 !important;
+    border: 1px solid #a30af2 !important;
+}
+.Myh1{
+    font-size: 55px;
+}
+.dot {
+    font-size: 1px;
+    height: 20px;
+    width: 20px;
+    background-color: #bbb;
+    border-radius: 50%;
+    display: inline-block;
+  }
+  cards:hover { 
+    background: #0057FF; 
+} 
+ 
+.h1who { 
+    font-family: 'Druk Wide Bold'; 
+    font-style: normal; 
+    font-weight: 700; 
+    font-size: 40px; 
+    line-height: 52px; 
+    letter-spacing: 0.07em; 
+    text-transform: uppercase; 
+    color: #FFFFFF; 
+    flex: none; 
+    order: 0; 
+    flex-grow: 0; 
+} 
+ 
+.imgStyle { 
+    width: 85%; 
+    height: 577px; 
+ 
+} 
+ 
+.h1Interior { 
+    font-family: 'Druk Wide Bold'; 
+    font-style: normal; 
+    font-weight: 700; 
+    font-size: 24px; 
+    line-height: 45px; 
+    letter-spacing: 0.07em; 
+    text-transform: uppercase; 
+    color: #FFFFFF; 
+    /* Inside auto layout */ 
+    flex: none; 
+    order: 0; 
+    flex-grow: 0; 
+} 
+ 
+.myp { 
+    font-family: 'Inter'; 
+    font-style: normal; 
+    font-weight: 400; 
+    font-size: 18px; 
+    line-height: 34px; 
+ 
+    color: rgba(255, 255, 255, 0.9); 
+    /* Inside auto layout */ 
+    flex: none; 
+    order: 0; 
+    flex-grow: 0; 
+} 
+ 
+.btn3 { 
+    width: 50%; 
+    height: 50px; 
+    color: #FFFFFF; 
+    background: #111111; 
+    border: 1px solid #FFFFFF; 
+} 
+ 
+.h1Selected { 
+    font-family: 'Druk Wide Bold'; 
+    font-style: normal; 
+    font-weight: 700; 
+    font-size: 40px; 
+    line-height: 52px; 
+    letter-spacing: 0.07em; 
+    text-transform: uppercase; 
+    text-align: center; 
+    color: #272727; 
+ 
+ 
+    /* Inside auto layout */ 
+ 
+    flex: none; 
+    order: 0; 
+    flex-grow: 0; 
+} 
+ 
+.imgs { 
+    height: 503px; 
+} 
+ 
+.h101 { 
+ 
+    font-family: 'Druk Wide Bold'; 
+    font-style: normal; 
+    font-weight: 700; 
+    font-size: 100px; 
+    line-height: 131px; 
+    /* identical to box height */ 
+ 
+    letter-spacing: 0.07em; 
+    text-transform: uppercase; 
+ 
+    color: rgba(39, 39, 39, 0.12); 
+} 
+ 
+.h1Delta { 
+ 
+    font-family: 'Druk Wide Bold'; 
+    font-style: normal; 
+    font-weight: 700; 
+    font-size: 24px; 
+    line-height: 45px; 
+    /* identical to box height */ 
+ 
+    letter-spacing: 0.07em; 
+    text-transform: uppercase; 
+ 
+    color: #272727; 
+} 
+ 
+.pcreative { 
+    font-family: 'Inter'; 
+    font-style: normal; 
+    font-weight: 400; 
+    font-size: 18px; 
+    line-height: 34px; 
+ 
+    color: #4B4B4B; 
+} 
+ 
+.h1Our { 
+ 
+    font-family: 'Druk Wide Bold'; 
+    font-style: normal; 
+    font-weight: 700; 
+    font-size: 40px; 
+    line-height: 52px; 
+    letter-spacing: 0.07em; 
+    text-transform: uppercase; 
+    text-align: center; 
+    color: #FFFFFF; 
+} 
+ 
+.imgAdobespark { 
+    height: 280px; 
+    border: 1px solid #FFFFFF; 
+} 
+ 
+.h1-Help { 
+    font-family: 'Druk Wide Bold'; 
+    font-style: normal; 
+    font-weight: 700; 
+    font-size: 24px; 
+    line-height: 45px; 
+    letter-spacing: 0.07em; 
+    text-transform: uppercase; 
+ 
+    color: #FFFFFF; 
+} 
+ 
+.h1-creative { 
+ 
+    font-family: 'Inter'; 
+    font-style: normal; 
+    font-weight: 400; 
+    font-size: 18px; 
+    line-height: 34px; 
+ 
+    color: rgba(255, 255, 255, 0.9); 
+} 
+ 
+.p-Samantha { 
+    font-family: 'Druk Wide Bold'; 
+    font-style: normal; 
+    font-weight: 700; 
+    font-size: 16px; 
+    line-height: 21px; 
+    /* identical to box height */ 
+ 
+    text-transform: uppercase; 
+ 
+    color: #FFFFFF; 
+ 
+} 
+ 
+.p-Senior { 
+ 
+    font-family: 'Inter'; 
+    font-style: normal; 
+    font-weight: 400; 
+    font-size: 14px; 
+    line-height: 187.02%; 
+    /* or 26px */ 
+ 
+ 
+    color: rgba(255, 255, 255, 0.9); 
+} 
+ .der{
+    color: white;
+ }
+ .der:hover{
+    background-color: #0057ff !important;
+ }
+.cardimg { 
+    height: 396px; 
+} 
+ 
+.h5Contemporary { 
+    font-family: 'Druk Wide Bold'; 
+    font-style: normal; 
+    font-weight: 700; 
+    font-size: 18px; 
+    line-height: 186.6%; 
+    /* identical to box height, or 34px */ 
+ 
+    letter-spacing: 0.07em; 
+    text-transform: uppercase; 
+ 
+    color: #FFFFFF 
+} 
+.creative{ 
+         
+font-family: 'Inter'; 
+font-style: normal; 
+font-weight: 400; 
+font-size: 18px; 
+line-height: 34px; 
+ 
+color: rgba(255, 255, 255, 0.9); 
+}
